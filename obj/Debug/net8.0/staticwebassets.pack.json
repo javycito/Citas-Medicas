@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\DiarioMedico\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DiarioMedico.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DiarioMedico.45as6a6zou.bundle.scp.css"
+    },
+    {
+      "Id": "A:\\DiarioMedico\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "A:\\DiarioMedico\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "A:\\DiarioMedico\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "A:\\DiarioMedico\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DiarioMedico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DiarioMedico.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DiarioMedico.props",
+      "PackagePath": "build\\DiarioMedico.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DiarioMedico.props",
+      "PackagePath": "buildMultiTargeting\\DiarioMedico.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DiarioMedico.props",
+      "PackagePath": "buildTransitive\\DiarioMedico.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

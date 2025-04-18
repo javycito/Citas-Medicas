@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\DiarioMedico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\pages\\nuevacita.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\pages\\nuevacita.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\pages\\citas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\pages\\citas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\diariomedico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:diariomedico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\services\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:services\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\DiarioMedico\\Migrations\\20250418170707_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250418170707_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|a:\\diariomedico\\migrations\\20250418171300_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62762178-1BEB-4835-8ADF-43E5BCC0A991}|DiarioMedico.csproj|solutionrelative:migrations\\20250418171300_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1402,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NuevaCita.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\Pages\\NuevaCita.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\NuevaCita.razor",
+              "ToolTip": "A:\\DiarioMedico\\Components\\Pages\\NuevaCita.razor",
+              "RelativeToolTip": "Components\\Pages\\NuevaCita.razor",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv0QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:02:57.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "A:\\DiarioMedico\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T20:09:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Citas.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\Pages\\Citas.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Citas.razor",
+              "ToolTip": "A:\\DiarioMedico\\Components\\Pages\\Citas.razor",
+              "RelativeToolTip": "Components\\Pages\\Citas.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T17:24:57.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "A:\\DiarioMedico\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:44:08.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\DiarioMedico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:48:41.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "A:\\DiarioMedico\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:31:16.866Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "A:\\DiarioMedico\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:52:14.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Models\\Cita.cs",
+              "ToolTip": "A:\\DiarioMedico\\Models\\Cita.cs",
+              "RelativeToolTip": "Models\\Cita.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:52:49.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "A:\\DiarioMedico\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "A:\\DiarioMedico\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T22:41:46.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "A:\\DiarioMedico\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T21:52:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Shared\\MainLayout.razor.css",
+              "ToolTip": "A:\\DiarioMedico\\Components\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Shared\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-18T22:35:14.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Shared\\MainLayout.razor",
+              "ToolTip": "A:\\DiarioMedico\\Components\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:02:32.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "A:\\DiarioMedico\\Components\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\NavMenu.razor",
+              "ToolTip": "A:\\DiarioMedico\\Components\\NavMenu.razor",
+              "RelativeToolTip": "Components\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:03:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiarioMedico.csproj",
+              "DocumentMoniker": "A:\\DiarioMedico\\DiarioMedico.csproj",
+              "RelativeDocumentMoniker": "DiarioMedico.csproj",
+              "ToolTip": "A:\\DiarioMedico\\DiarioMedico.csproj",
+              "RelativeToolTip": "DiarioMedico.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T17:50:38.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CitaService.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Services\\CitaService.cs",
+              "RelativeDocumentMoniker": "Services\\CitaService.cs",
+              "ToolTip": "A:\\DiarioMedico\\Services\\CitaService.cs",
+              "RelativeToolTip": "Services\\CitaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:50:35.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "A:\\DiarioMedico\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:52:00.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250418170707_InitialCreate.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Migrations\\20250418170707_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418170707_InitialCreate.cs",
+              "ToolTip": "A:\\DiarioMedico\\Migrations\\20250418170707_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250418170707_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:07:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250418171300_InitialCreate.cs",
+              "DocumentMoniker": "A:\\DiarioMedico\\Migrations\\20250418171300_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418171300_InitialCreate.cs",
+              "ToolTip": "A:\\DiarioMedico\\Migrations\\20250418171300_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250418171300_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:13:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\DiarioMedico\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "A:\\DiarioMedico\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T16:47:55.227Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

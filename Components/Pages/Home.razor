@@ -1,0 +1,73 @@
+﻿@page "/"
+@namespace DiarioMedico.Components.Pages
+@using Microsoft.AspNetCore.Components.Web
+@using DiarioMedico.Models
+@using DiarioMedico.Services
+@inject CitaService CitaService
+@inject NavigationManager NavigationManager
+
+<PageTitle>Citas Médicas</PageTitle>
+
+<h1>Hola. Qué gusto verte de vuelta</h1>
+
+@if (citas == null)
+{
+    <p>Cargando citas...</p>
+}
+else if (citas.Count == 0)
+{
+    <p>No hay citas registradas.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Fecha</th>
+                <th>Hora</th>
+                <th>Cliente</th>
+                <th>Doctor</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cita in citas)
+            {
+                <tr>
+                    <td>@cita.Fecha.ToString("dd/MM/yyyy")</td>
+                    <td>@cita.Hora</td>
+                    <td>@cita.Cliente</td>
+                    <td>@(cita.Doctor?.Nombre ?? "Sin doctor")</td>
+                    <td>
+                        <button class="btn btn-primary btn-sm" @onclick="() => EditarCita(cita.Id)">Editar</button>
+                        <button class="btn btn-danger btn-sm" @onclick="() => EliminarCita(cita.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<p>
+    <a href="/nueva-cita" class="btn btn-success">Nueva Cita</a>
+</p>
+
+@code {
+    private List<Cita> citas = new List<Cita>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        citas = await CitaService.GetCitasAsync();
+    }
+
+    private void EditarCita(int id)
+    {
+        NavigationManager.NavigateTo($"/editar-cita/{id}");
+    }
+
+    private async Task EliminarCita(int id)
+    {
+        await CitaService.DeleteCitaAsync(id);
+        citas = await CitaService.GetCitasAsync(); // Refrescar la lista
+    }
+}

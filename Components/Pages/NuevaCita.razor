@@ -1,0 +1,69 @@
+﻿@using DiarioMedico.Services
+@using DiarioMedico.Models
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Web
+
+@page "/nueva-cita"
+@inject CitaService CitaService
+@inject NavigationManager NavigationManager
+
+<h3>Nueva Cita</h3>
+
+<EditForm Model="nuevaCita" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+
+    <div class="mb-3">
+        <label>Fecha:</label>
+        <input type="date" @bind="nuevaCita.Fecha" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Hora:</label>
+        <input type="time" @bind="nuevaCita.Hora" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Cliente:</label>
+        <input type="text" @bind="nuevaCita.Cliente.Nombre" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Doctor:</label>
+        <select @bind="nuevaCita.DoctorId" class="form-control">
+            <option value="">Seleccione un doctor</option>
+            @foreach (var doctor in doctores)
+            {
+                <option value="@doctor.Id">@doctor.Nombre</option>
+            }
+        </select>
+    </div>
+
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+</EditForm>
+
+@code {
+    private Cita nuevaCita = new Cita
+        {
+            Hora = null,
+            NombredeCliente = string.Empty,
+            Cliente = new Cliente()
+            {
+                Email = string.Empty, 
+                Nombre = string.Empty, 
+            }
+        };
+
+    private List<Doctor> doctores = new List<Doctor>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        doctores = await CitaService.ObtenerDoctores();
+    }
+    
+    private async Task HandleValidSubmit()
+    {
+        await CitaService.CreateCitaAsync(nuevaCita);
+        NavigationManager.NavigateTo("/citas");
+    }
+}
